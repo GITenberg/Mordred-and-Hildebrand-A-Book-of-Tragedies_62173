@@ -1,0 +1,31 @@
+_repo: Mordred-and-Hildebrand-A-Book-of-Tragedies_62173
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Campbell, Wilfred
+    aliases:
+    - Campbell, William Wilfred
+    - Campbell, Wilfrid
+    - Campbell, W. Wilfred (William Wilfred)
+    deathdate: 1918
+    gutenberg_agent_id: '47883'
+    url: http://www.gutenberg.org/2009/agents/47883
+    wikipedia: https://en.wikipedia.org/wiki/William_Wilfred_Campbell
+description: ''
+gutenberg_issued: '2020-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gregory VII, Pope, approximately 1015-1085 -- Drama'
+- !lcc 'PS'
+- !lcsh 'Mordred (Legendary character) -- Drama'
+- !lcsh 'Tragedies'
+- !lcsh 'Arthurian romances -- Adaptations'
+- GITenberg
+title: 'Mordred and Hildebrand: A Book of Tragedies'
+url: http://www.gutenberg.org/ebooks/62173
